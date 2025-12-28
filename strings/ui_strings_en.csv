@@ -1,0 +1,7 @@
+key,source_text,context_notes
+login_error_invalid_password,Invalid password. Please try again.,Displayed when user enters an incorrect password
+password_requirements,Password must be at least 8 characters.,Shown during account creation
+confirm_delete_account,Are you sure you want to delete your account?,Confirmation dialog text
+button_save_changes,Save changes,Primary action button
+empty_state_no_results,No results found.,Shown when search returns no results
+subscription_renewal_notice,Your subscription will renew on {date}.,Billing notification with variable
