@@ -2,6 +2,6 @@ key,localized_text,context_notes
 login_error_invalid_password,Password non valida. Riprova.,INTENTIONAL ISSUE: gender agreement (password is fem. in IT)
 password_requirements,La password deve contenere almeno 8 caratteri.,OK
 confirm_delete_account,Sei sicuro di voler eliminare il tuo account?,OK
-button_save_changes,Salva modifiche,INTENTIONAL ISSUE: missing article (usually "le" in UI context)
+button_save_changes,Salva modifiche,"INTENTIONAL ISSUE: missing article (usually ""le"" in UI context)"
 empty_state_no_results,Nessun risultato trovato,INTENTIONAL ISSUE: missing punctuation compared to EN
 subscription_renewal_notice,Il tuo abbonamento si rinnoverà il {data}.,INTENTIONAL ISSUE: variable mismatch {date} → {data}
