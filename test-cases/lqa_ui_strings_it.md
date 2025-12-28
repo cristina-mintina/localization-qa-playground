@@ -23,3 +23,4 @@ This test case covers Italian UI strings defined in `ui_strings_it.csv`.
 - Punctuation is consistent with the source where appropriate.
 - All variables match the source exactly.
 - No truncation or ambiguity is introduced.
+- Known issues are documented in the bug-reports/ directory.
